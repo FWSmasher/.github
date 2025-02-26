@@ -4,4 +4,4 @@ All exploits in this organization is private, but will be public in 4+ months. T
 
 We only allow for responsible disclosure, we believe it is an important value for cyber security organizations. We don't believe in security through obscurity however, as we believe the general public should also know about what vulnerabilities exist in their devices, and how to fix it.  
 
-Do not contact @unretained (aka MunyDev) on discord, or github, as he has left FWSmasher permanently. Thank you for all your support.
+## Do not contact @unretained (aka MunyDev) on discord, or github, as he has left FWSmasher permanently. Thank you for all your support.
